@@ -1,2 +1,2 @@
 # theCodeYard
-Jake's personal coding playground
+Jake's coding grounds
